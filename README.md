@@ -9,5 +9,5 @@ A basic dead-man switch app to run on my phone.
 * Countdown should keep going while phone sleep, but should be reset by any activity (if I can wake up the phone, then I should also be able to look after Boo and Buster)
 * Keep an eye on battery usage
 * Have one or two acousting warnings before sending out SMSs...
-* Keep it simple (don't try to build a general library, don't try write it in Rust or Lisp). 
+* Keep it simple (don't try to build a general library, don't try to write it in Rust or Lisp). 
 
