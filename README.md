@@ -10,4 +10,6 @@ A basic dead-man switch app to run on my phone.
 * Keep an eye on battery usage
 * Have one or two acousting warnings before sending out SMSs...
 * Keep it simple (don't try to build a general library, don't try to write it in Rust or Lisp). 
+* It does not need to be bomb-proof. Remember the scenario: you die and someone has to take care of the rabbits before they starve or run out of water. Don't try to solve freak cases regardless of how interesting they could be.
+* Also don't try to solve everything by an app. Make sure the rabbits have always access to plenty to eat and drink in case the app fails.
 
